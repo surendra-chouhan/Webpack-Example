@@ -1,0 +1,20 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack"
+  },
+  "author": "Surendra",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^5.37.1"
+  },
+  "devDependencies": {
+    "css-loader": "^5.2.6",
+    "style-loader": "^2.0.0",
+    "webpack-cli": "^4.7.0"
+  }
+}
